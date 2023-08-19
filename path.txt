@@ -1,7 +1,0 @@
-## initite
-git config --global user.name "Mostafa"
-git config --global user.email mostafa.m.jalal@student.uts.edu.au
-
-## fix path
-cd D:/CodeSpace/Projects/whistleout
-jkfbawfwajfbawjfbawf
